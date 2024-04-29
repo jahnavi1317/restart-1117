@@ -11,6 +11,6 @@
   <h6>HTML</h6>
   <p> I Would like to learn the HTML</p>
   <img src="https://i.ytimg.com/vi/obUQL6MEzzs/maxresdefault.jpg"</img>
-  <a href = "https:www.amazon.com"</a>
+  <a href = "https://www.w3schools.com"></a>
   
 </html>

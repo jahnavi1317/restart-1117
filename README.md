@@ -18,11 +18,18 @@
     <li>three</li>
     <li>four</li>
     <ul>
-      <li>one</li>
-      <li>two</li>
-      <li>three</li>
-      <li>four</li>
+    <li>one</li>
+    <li>two</li>
+    <li>three</li>
+    <li>four</li>
     </ul>
   </ol>
+  <table>
+    <tr>name</tr>
+    <tr>roll no</tr>
+    <tr> phnno</tr>
+    
+    
+  </table>
   
 </html>

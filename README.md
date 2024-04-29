@@ -10,6 +10,6 @@
   <h5>HTML</h5>
   <h6>HTML</h6>
   <p> I Would like to learn the HTML</p>
-  <img >src="https://i.ytimg.com/vi/obUQL6MEzzs/maxresdefault.jpg</img>
+  <img src="https://i.ytimg.com/vi/obUQL6MEzzs/maxresdefault.jpg"</img>
   
 </html>

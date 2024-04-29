@@ -25,9 +25,24 @@
     </ul>
   </ol>
   <table>
-    <tr>name</tr>
-    <tr>roll no</tr>
-    <tr> phnno</tr>
+    <th> name </th>
+    <th> rollno </th>
+    <th> phnno</th>
+    <tr>
+      <td>chandrika</td>
+      <td>20</td>
+      <td>9505245689</td>
+    </tr>
+    <tr>
+      <td>vasantha</td>
+      <td>14</td>
+      <td>9536842681</td>
+       </tr>
+       <tr>
+         <td>jahnavi</td>
+         <td>03</td>
+         <td>9505343689</td>
+       </tr>
     
     
   </table>

@@ -12,5 +12,17 @@
   <p> I Would like to learn the HTML</p>
   <img src="https://i.ytimg.com/vi/obUQL6MEzzs/maxresdefault.jpg"</img>
   <a href = "https://www.w3schools.com"></a>
+  <ol>
+    <li>one</li>
+    <li>two</li>
+    <li>three</li>
+    <li>four</li>
+    <ul>
+      <li>one</li>
+      <li>two</li>
+      <li>three</li>
+      <li>four</li>
+    </ul>
+  </ol>
   
 </html>

@@ -46,6 +46,93 @@
     
     
   </table>
+  <title>
+                form
+            </title>
+            <h1 style=text-align:center > SIGN UP </h1>
+            <table>
+                <tr>
+                    <td>
+                        name:
+                    </td>
+                    <td>
+                        <input type="text" style=text-align:center;" placeholder="name,phn.no"
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        password:
+                    </td>
+                    <td>
+                        <input type="password" style=text-align:center;" placeholder="password"
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                       gmail :
+                    </td>
+                    <td>
+                        <input type="gmail" style=text-align:center;" placeholder="abc@gmail.com"
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        gender:
+                    </td>
+                       <td>
+                          <input type="radio" name="gender">male
+                          <input type="radio" name="gender">female
+                        </td>
+                        <tr>
+                            <td>
+                                date of birth:
+                                <td>
+                                    <input type="date"
+                                </td>
+
+                            </td>
+                        </td>
+                        <tr>
+                            <td>
+                                technical languages:
+                            </td>
+                            <td>
+                                
+                                <input type="checkbox" c>c
+                                <input type="checkbox" java>java
+                                <input type="checkbox" dbms>dbms
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                education qualification:
+                            </td>
+                            <td>
+                                <select>
+                                    <option>select option</option>
+                                    <option>10+2</option>
+                                    <option>graduation</option>
+                                    <option>post graduation</option>
+
+                                    </option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <input type="submit" value="submit"
+                                <input type="reset" value="reset"
+                            </td>
+                        </tr>
+                    
+
+                </tr>
+
+            </table>
+            
+            
+            
+            
   
   
 </html>

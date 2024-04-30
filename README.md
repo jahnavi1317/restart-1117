@@ -46,9 +46,7 @@
    </table>
 
   
-  <title>
-                form
-            </title>
+  
             <h1 style=text-align:center > SIGN UP </h1>
             
                 <tr>

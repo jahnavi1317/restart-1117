@@ -43,14 +43,14 @@
          <td>03</td>
          <td>9505343689</td>
        </tr>
-    
-    
-  </table>
+   </table>
+
+  
   <title>
                 form
             </title>
             <h1 style=text-align:center > SIGN UP </h1>
-            <table>
+            
                 <tr>
                     <td>
                         name:
@@ -128,7 +128,7 @@
 
                 </tr>
 
-            </table>
+            
             
             
             
